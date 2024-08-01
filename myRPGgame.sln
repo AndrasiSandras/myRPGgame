@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myRPGgame", "myRPGgame\myRPGgame.csproj", "{2AD2D540-E430-4E6C-8657-960FDF22137B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gameEngine", "gameEngine\gameEngine.csproj", "{DEBAEC30-1280-4880-A910-13D726F1E875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD2D540-E430-4E6C-8657-960FDF22137B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD2D540-E430-4E6C-8657-960FDF22137B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD2D540-E430-4E6C-8657-960FDF22137B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD2D540-E430-4E6C-8657-960FDF22137B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBAEC30-1280-4880-A910-13D726F1E875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBAEC30-1280-4880-A910-13D726F1E875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBAEC30-1280-4880-A910-13D726F1E875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBAEC30-1280-4880-A910-13D726F1E875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE1A4103-7AC8-42C9-B84A-5191F8FC7FA1}
+	EndGlobalSection
+EndGlobal
