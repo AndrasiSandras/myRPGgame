@@ -1,1 +1,1 @@
-https://drive.google.com/file/d/1ZQLrGPJNLLA3o2Ba6LWBhOQDSZYHHqIT/view?fbclid=IwZXh0bgNhZW0CMTEAAR0HI6mWB7sRzVJY0SId3ZQ9mGJwJVXm9lhLw67kdipw9z2uWladYziphSE_aem_NMRvlNrmtUyb6qxMPf-lpQ
+Game exe: https://drive.google.com/file/d/1ZQLrGPJNLLA3o2Ba6LWBhOQDSZYHHqIT/view?fbclid=IwZXh0bgNhZW0CMTEAAR0HI6mWB7sRzVJY0SId3ZQ9mGJwJVXm9lhLw67kdipw9z2uWladYziphSE_aem_NMRvlNrmtUyb6qxMPf-lpQ
